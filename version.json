@@ -1,10 +1,10 @@
 {
- "build": 7,
- "version": "v3.4",
+ "build": 8,
+ "version": "v3.5",
  "bin": "firmware.bin",
- "md5": "729d79ed4e292ef4a126bbbb18324cf1",
- "size": 1241344,
+ "md5": "4d4e33e03c2d23804a4426c8abdca88b",
+ "size": 1241504,
  "iconos": 1,
- "notas": "Iconos nuevos por Wi-Fi, cajon 3x3, barra, IA sin cortes",
+ "notas": "Arreglo: descarga de iconos sin memoria extra",
  "sig": ""
 }
