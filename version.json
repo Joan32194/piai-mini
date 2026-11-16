@@ -1,0 +1,9 @@
+{
+  "build": 5,
+  "version": "v3.2",
+  "bin": "firmware.bin",
+  "md5": "30e0a3302312ec0cc2e08aa9ec9445a1",
+  "size": 1235952,
+  "notas": "IA en linea y actualizacion por Wi-Fi",
+  "sig": ""
+}
