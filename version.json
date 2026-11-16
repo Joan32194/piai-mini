@@ -1,10 +1,10 @@
 {
- "build": 9,
- "version": "v3.6",
- "bin": "firmware.bin",
- "md5": "3f92b96aa11db7652301bda1102953e2",
- "size": 1242304,
- "iconos": 1,
- "notas": "Menos RAM: iconos comprimidos, IA y clics mejorados",
- "sig": ""
+"build": 14,
+"version": "v3.11",
+"bin": "firmware.bin",
+"md5": "ab5fc33e6cd4fe8c1b21c9c8490f7a44",
+"size": 1243104,
+"iconos": 1,
+"notas": "Mas rapido: texto por franja, solo se reenvia lo que cambia. IA con menos RAM.",
+"sig": ""
 }
